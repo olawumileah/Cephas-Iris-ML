@@ -1,0 +1,7 @@
+streamlit 
+scikit-learn 
+pandas
+flask
+fastapi
+uvicorn
+setuptools>=70.0.0 # Snyk vulnerability fix
